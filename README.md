@@ -1,2 +1,2 @@
-# L-gica-Super-Trunfo
+# Logica-Super-Trunfo
 Super Trunfo project of cities
